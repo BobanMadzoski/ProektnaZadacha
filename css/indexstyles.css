@@ -3,11 +3,11 @@ body {
   background-size: cover;
   background-repeat: repeat;
   color: white;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: "cooper black";
 }
 
 header {
+  font-family: "Times New Roman", Times, serif;
   z-index: 1000;
   position: sticky;
   top: 15px;
@@ -62,7 +62,7 @@ a:hover {
   font-weight: bold;
   position: absolute;
   display: inline-block;
-  right: 30%;
+  right: 29.6%;
   top: 7px;
   box-sizing: border-box;
   margin: 0 auto;
@@ -246,6 +246,7 @@ main {
 }
 
 footer {
+  font-family: "Times New Roman", Times, serif;
   position: relative;
   bottom: -120px;
 }
