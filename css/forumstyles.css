@@ -51,6 +51,7 @@ a:hover {
   box-sizing: border-box;
   margin: 0 auto;
   padding: 5px;
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-simple-honeycomb-honey-food-psd-layered-master-map-background-material-image_149656.jpg);
 }
 
 .ul2 {
@@ -67,6 +68,7 @@ a:hover {
   box-sizing: border-box;
   margin: 0 auto;
   padding: 6px;
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-simple-honeycomb-honey-food-psd-layered-master-map-background-material-image_149656.jpg);
 }
 
 .ul3 {
@@ -83,6 +85,7 @@ a:hover {
   box-sizing: border-box;
   margin: 0 auto;
   padding: 5px;
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-simple-honeycomb-honey-food-psd-layered-master-map-background-material-image_149656.jpg);
 }
 
 main {
@@ -106,7 +109,7 @@ main {
 
 .div {
   position: relative;
-  right: 30%;
+  right: -1%;
   top: 20px;
   color: black;
   font-weight: bold;
@@ -114,14 +117,44 @@ main {
   border: 2px solid black;
   background: rgba(255, 217, 0, 0.479);
   padding: 5px;
-  margin: 0 auto;
+  margin-right: 0;
   width: 700px;
 }
 
-.div2 {
+.questions {
   position: relative;
-  left: 30%;
-  top: 20px;
+  right: 23%;
+  top: 40px;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  border: 2px solid black;
+  background: rgba(255, 217, 0, 0.479);
+  padding: 5px;
+  margin: 0 auto;
+  width: 1000px;
+  height: 600px;
+}
+
+.answers {
+  position: relative;
+  right: 23%;
+  top: 40px;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  border: 2px solid black;
+  background: rgba(255, 217, 0, 0.479);
+  padding: 5px;
+  margin: 0 auto;
+  width: 1000px;
+  height: 600px;
+}
+
+.div2 {
+  position: absolute;
+  left: 61%;
+  top: 17%;
   color: black;
   font-weight: bold;
   font-size: 20px;
@@ -188,6 +221,7 @@ main {
   text-align: left;
   border: 2px solid black;
   background: gray;
+
   border-top-style: none;
   position: absolute;
   padding: 3px;
@@ -283,6 +317,8 @@ footer {
   top: 7px;
   box-sizing: border-box;
   margin: 0 auto;
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-simple-honeycomb-honey-food-psd-layered-master-map-background-material-image_149656.jpg);
+
   padding: 5px;
 }
 
@@ -301,6 +337,7 @@ footer {
   box-sizing: border-box;
   margin: 0 auto;
   padding: 6px;
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-simple-honeycomb-honey-food-psd-layered-master-map-background-material-image_149656.jpg);
 }
 
 .ful3 {
@@ -318,6 +355,7 @@ footer {
   box-sizing: border-box;
   margin: 0 auto;
   padding: 5px;
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-simple-honeycomb-honey-food-psd-layered-master-map-background-material-image_149656.jpg);
 }
 
 .searchbox {
